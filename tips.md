@@ -16,3 +16,8 @@ il y a plus de restaurant, et les gens sont plus jeunes.
 ### plus vs plus de
 plus beau
 plus de gens
+
+## Quand / Si
+quand/si + present + present -> a chaque fois (everytime)
+
+quand/si + future + present -> cette fois-ci (this time)
