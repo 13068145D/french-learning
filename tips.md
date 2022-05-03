@@ -21,3 +21,12 @@ plus de gens
 quand/si + present + present -> a chaque fois (everytime)
 
 quand/si + future + present -> cette fois-ci (this time)
+
+## starter
+
+### future
+
+**J'ai pris** faire les devoirs.
+**C'est decide**, je vais aller me coucher.
+**J'ai decide de** prendre un cours d'anglais.
+**Je pense** abandonner les jeux video.
