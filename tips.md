@@ -30,3 +30,10 @@ quand/si + future + present -> cette fois-ci (this time)
 **C'est decide**, je vais aller me coucher.
 **J'ai decide de** prendre un cours d'anglais.
 **Je pense** abandonner les jeux video.
+
+## liaison
+with pronoun can use liaison
+
+v nous allons
+
+x les gens ont 
