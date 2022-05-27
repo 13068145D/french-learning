@@ -37,3 +37,6 @@ with pronoun can use liaison
 v nous allons
 
 x les gens ont 
+
+## ni
+mon nez n'est ni petit ni gros.
