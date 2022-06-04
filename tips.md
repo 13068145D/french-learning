@@ -40,3 +40,7 @@ x les gens ont
 
 ## ni
 mon nez n'est ni petit ni gros.
+
+## IMPÉRATIF
+non-irregular verb no "s"
+irregular verb with "s"
