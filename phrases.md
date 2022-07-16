@@ -5,3 +5,5 @@ c'est sur
 tout à fait = absolutely
 
 selon moi = in my opinion
+
+ca va aller = it will be ok
