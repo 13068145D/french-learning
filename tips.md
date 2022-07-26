@@ -1,3 +1,7 @@
+## en
+### Le pronome en
+je vais cuisiner du poisson -> Je vais **en** cuisiner [du poisson]
+
 ## de
 
 wrong: elle a des grandes fenêtres
