@@ -2,6 +2,10 @@
 ### Le pronome en
 je vais cuisiner du poisson -> Je vais **en** cuisiner [du poisson]
 
+xxxx -> Non, je n'en ai pas achete cette semain.
+
+xxxx -> Oui, j'adore en lire
+
 ## de
 
 wrong: elle a des grandes fenêtres
