@@ -6,6 +6,10 @@ xxxx -> Non, je n'en ai pas achete cette semain.
 
 xxxx -> Oui, j'adore en lire
 
+je n'en mange pas. -> je n'en ai pas mange.
+
+ils n'en font pas. -> ils n'en ont pas fait.
+
 ## de
 
 wrong: elle a des grandes fenêtres
