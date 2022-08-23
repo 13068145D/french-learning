@@ -15,3 +15,7 @@ je n'y crois pas = i don't believe it
 tu as peut etre raison = maybe you're right
 
 c'est-a-dire = that is
+
+hongkongais = hongkongers
+
+j'aimerais essayer = I would like to try
