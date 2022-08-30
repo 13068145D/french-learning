@@ -1,4 +1,10 @@
-## adj -> adv
+## adverb
+
+## placing
+1. beginning of a sentence with a ','
+2. at the end of a sentence
+
+### adj -> adv
 adj -> feminin form -> + ment = adverb
 ```
 vrai -> vraiment
