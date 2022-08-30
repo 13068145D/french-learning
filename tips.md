@@ -1,3 +1,10 @@
+## adj -> adv
+adj -> feminin form -> + ment = adverb
+```
+vrai -> vraiment
+sur -> surement
+```
+
 ## san
 infinitive form after `san`
 ```
