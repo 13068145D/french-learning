@@ -1,3 +1,8 @@
+## san
+infinitive form after `san`
+```
+elle a vu un homme qui a couru, et qui a traverse la rue sans regarder
+```
 ## document
 
 un titre, un chapeau, le corps du texte
