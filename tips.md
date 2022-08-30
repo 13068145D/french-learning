@@ -1,3 +1,21 @@
+## adverb
+
+## placing
+1. beginning of a sentence with a ','
+2. at the end of a sentence
+
+### adj -> adv
+adj -> feminin form -> + ment = adverb
+```
+vrai -> vraiment
+sur -> surement
+```
+
+## san
+infinitive form after `san`
+```
+elle a vu un homme qui a couru, et qui a traverse la rue sans regarder
+```
 ## document
 
 un titre, un chapeau, le corps du texte
