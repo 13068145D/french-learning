@@ -1,3 +1,9 @@
+## mieux vs meilleur
+
+Mieux is an adverb, meilleur is an adjective hence they don't react the same way. 
+
+You use an adverb as an addition to a verb, and an adjectif as an addition to a noun. To know which one to use, you must analyse the structure of your sentence and find to which part mieux/meilleur is referring to.
+
 ## chaque vs tous les
 1. The fact is "chaque" and "tous les" are completely interchangeable in French when it comes to express the notion of "every". However, to be absolutely precise, "chaque" is indeed the grammatical equivalent of "each", and "tous les" of "every".
 2. Mostly. Chaque is only used with a singular noun. You use Tous les(masc.) or Toutes les(fem.) with a plural noun.
