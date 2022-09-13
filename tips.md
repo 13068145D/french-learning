@@ -1,3 +1,8 @@
+## lequel vs quel
+before noun -> quel
+before suis/verb -> lequel
+
+
 ## mieux vs meilleur
 
 Mieux is an adverb, meilleur is an adjective hence they don't react the same way. 
